@@ -1,5 +1,5 @@
-# Blue-Engine
+# Azura Engine
 
-**Blue-Engine** is a modern, high-performance game engine designed to bridge the gap between **simplicity for beginners** and **power for professionals**. Built with a focus on clean architecture, cross-platform compatibility, and low-level optimization.
+**Azura Engine** is a modern, high-performance game engine designed to bridge the gap between **simplicity for beginners** and **power for professionals**. Built with a focus on clean architecture, cross-platform compatibility, and low-level optimization.
 
-**Note:** Blue-Engine is currently in active development.
+**Note:** Azura Engine is currently in active development.
